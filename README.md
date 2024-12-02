@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Nodejs<br>I
+I'm currently learning Nodejs<br>
 
 
 ## 🌐 Socials:
